@@ -1,0 +1,25 @@
+ .navbar {
+     background-color: '#eee';
+     padding: '10px 0';
+ }
+
+
+ .navbar__menu {
+     display: flex;
+     justify-content: space-around;
+     list-style: none;
+ }
+
+
+
+
+ .navbar__item {
+     margin: '0 10px';
+     list-style: none;
+ }
+
+
+ .navbar__link {
+
+     text-decoration: none;
+ }
